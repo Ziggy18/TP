@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+  sumNumLib.cpp
+C:\Users\user\source\repos\sumNumLib\sumNumLib\sumNumLib.cpp(1): warning C4603: LIB_EXPORT: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\user\source\repos\sumNumLib\sumNumLib\sumNumLib.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\user\source\repos\sumNumLib\sumNumLib\sumNumLib.cpp(2): message : использование предварительно скомпилированного заголовка
+C:\Users\user\source\repos\sumNumLib\sumNumLib\sumNumLib.cpp(5,1): warning C4273: sumNum: несовместимое связывание dll
+C:\Users\user\source\repos\sumNumLib\sumNumLib\sumNumLib.h(7,24): message : см. предыдущее определение "sumNum"
+  Создание кода...
+     Создается библиотека C:\Users\user\source\repos\sumNumLib\Debug\sumNumLib.lib и объект C:\Users\user\source\repos\sumNumLib\Debug\sumNumLib.exp
+  sumNumLib.vcxproj -> C:\Users\user\source\repos\sumNumLib\Debug\sumNumLib.dll
